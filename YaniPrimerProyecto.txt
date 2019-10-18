@@ -2,4 +2,8 @@ Yani Primer Proyecto
 
 Fecha: 17 de Octubre de 2019
 
+<<<<<<< HEAD
 Inicio Prueba.
+=======
+Modificacion en ramita
+>>>>>>> Ramita
